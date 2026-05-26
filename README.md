@@ -1,1 +1,1 @@
-[Live Web](uts-kripto.page.gd)
+[Live Web](http://uts-kripto.page.gd)
